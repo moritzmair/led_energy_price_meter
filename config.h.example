@@ -1,0 +1,8 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+const char* ssid = "your ssid";
+const char* password = "your password";
+const char* url = "https://www.energyforecast.de/api/v1/predictions/prices?max_values=72&token=your_token";
+
+#endif
